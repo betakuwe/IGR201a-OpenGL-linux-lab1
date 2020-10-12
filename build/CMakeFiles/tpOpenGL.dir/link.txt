@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/tpOpenGL.dir/main.cpp.o  -o tpOpenGL  -ldl glad/libglad.a /usr/lib64/libglfw.so.3.3 
